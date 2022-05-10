@@ -47,7 +47,7 @@ I'm an 11th-grade student still in High School and learning programming on the g
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zleepytsu&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=impolqris&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
 </p>
 
 ## 💌 Contact Me
