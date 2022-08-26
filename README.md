@@ -1,18 +1,19 @@
 
 # Hi, I'm polaris 👋💻
 
-I'm an 11th-grade student still in High School and learning programming on the go. My end goals are to be a well-known and trusted Penetration Tester or even Front-End Developer. My love for coding originated when I was 11 and messing around on a school computer. So far, I have no certifications on my belt but I aim to obtain some via my current job. Aside from programming, I love stargazing and have bought a telescope or two. 
+I'm a 12th-grade student in High School and learning programming on the Go. My end goals are to be a well-known and trusted Penetration Tester or even Front-End Developer. My love for coding originated when I was 11 and messing around on a school computer. So far, I have no certifications on my belt but I aim to obtain some alongside working at my current workplace. Aside from programming, I love stargazing with my telescope and driving around at night with the windows rolled down. 
 
 ## 🌎 Visit my website
 - <a href="https://www.imtrey.dev/" target="_blank">www.imtrey.dev</a>
 
 ## ✨ Current situation
 
-- 🔭 I do not currently have an IT-related job but am planning to by the time I graduate college in 2024.
-- 🌱 I’m currently learning React, Python, and Rust.
+- 🔭 I have a Full-Stack job working at a local tech company.
+- 🌱 I’m currently building projects in Go.
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -37,6 +38,7 @@ I'm an 11th-grade student still in High School and learning programming on the g
 ## 💾 Databases
 <p align="left">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## ⚙️ IDE & Editors
